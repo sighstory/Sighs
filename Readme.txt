@@ -1,6 +1,3 @@
-@settings { 
-  font-size: 100;
-}
 Sighs Stealer
 
 📃 Fake Error - Create fake error messages.
