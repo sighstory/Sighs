@@ -1,3 +1,5 @@
+Sighs Stealer
+
 📃 Fake Error - Create fake error messages.
 📷 Capture Screenshot - Capture screenshot from all monitors.
 📶 WiFi Stealer - Extract wifi profiles & passwords.
@@ -29,3 +31,17 @@
 💻 System Info Stealer - Steals system information.
 📋 Last Clipboard Text - Steals the last clipboard text.
 💻 Process Stealer - Steals running processes.
+
+
+Sighs Stealer's builder provides the following options:
+
+🔀 Realtime Obfuscation - Applies real-time obfuscation techniques.
+💾 File Pumper (Optional) - Pump your file size to evade detection.
+🚀 Startup Methods (Optional) - Use from schtask or regedit or folder startup options for startup.
+🎨 Icon Changer (Optional) - Changes the program icon (must end in .ico).
+🚫 Anti-VM (Optional) - It uses 12 different Anti-VM methods for enhanced security.
+
+⬇️ Download and Install python 3.11.0
+⬇️ Extract the zip file.
+👉 Navigate to the Exela Stealer folder and double click Sighstealer.exe
+🚀 Follow the on-screen instructions to complete the setup.
