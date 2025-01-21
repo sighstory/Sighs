@@ -1,4 +1,4 @@
-# Sighs Stealer #
+<# Sighs Stealer>
 
 📃 Fake Error - Create fake error messages.
 📷 Capture Screenshot - Capture screenshot from all monitors.
